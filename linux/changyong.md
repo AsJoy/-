@@ -24,5 +24,8 @@ id sem consectetuer libero luctus adipiscing.
 > 3. 整合列表   
 >  
 
-##### 引用整合结束
+##### 引用整合code
+
+
+>     return shell_exec("echo $input | $markdown_script");
 
