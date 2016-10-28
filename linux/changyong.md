@@ -26,6 +26,11 @@
     2. /etc/shadow 个人密码
     3. /etc/group 组信息
     
+12. `chgrp` 设置组信息
+13. `chown` 设置拥有着
+14. `chmod` 设置管理权限
+
+
  
     
   
